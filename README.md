@@ -10,11 +10,4 @@
 - Js
 - Bootstrap
 
-<p align="center" >
-  <a href="https://yosefhassouna2001.github.io/jadoo/" target="_blank">
-    <img src="assets/img/jadoo.jpeg" width="400">
-  </a>
-</p>
-
-
-
+![jadoo](assets/img/jadoo.jpeg)
