@@ -1,6 +1,6 @@
 # jadoo
 
-- Live :  [ Jadoo ](https://opensource.org/licenses/MIT)
+- Live :  [ Jadoo ](https://yosefhassouna2001.github.io/jadoo/)
 -------
 
 ## Features
